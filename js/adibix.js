@@ -32,7 +32,7 @@ function calculate_profile_size_windows2 () {
 
   var leftWindow = realHeight-ignoretop+31;
 
-  var bottomWindow = realHeight-ignoretop-237;
+  var bottomWindow = realHeight-ignoretop-217;
 
   var sizes= new Array();
 
